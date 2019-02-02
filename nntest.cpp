@@ -4,6 +4,8 @@
  * MIT license
  * */
 
+// compile with: g++ nntest.cpp -std=c++14
+
 #include <vector>
 #include <map>
 #include <functional>
